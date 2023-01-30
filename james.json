@@ -1,0 +1,277 @@
+{
+    "success": true,
+    "build": {
+        "name": "James Silveniat",
+        "class": "Rogue",
+        "level": 1,
+        "ancestry": "Human",
+        "heritage": "Half-Orc",
+        "background": "Hired Killer",
+        "alignment": "Neutral Good",
+        "gender": "Male",
+        "age": "26",
+        "deity": "Not set",
+        "size": 2,
+        "keyability": "dex",
+        "languages": [
+            "Common",
+            "Elven",
+            "Pathbuilder Custom Dialect 0"
+        ],
+        "attributes": {
+            "ancestryhp": 8,
+            "classhp": 8,
+            "bonushp": 0,
+            "bonushpPerLevel": 0,
+            "speed": 25,
+            "speedBonus": 0
+        },
+        "abilities": {
+            "str": 12,
+            "dex": 18,
+            "con": 14,
+            "int": 12,
+            "wis": 12,
+            "cha": 10
+        },
+        "proficiencies": {
+            "classDC": 2,
+            "perception": 4,
+            "fortitude": 2,
+            "reflex": 4,
+            "will": 4,
+            "heavy": 0,
+            "medium": 0,
+            "light": 2,
+            "unarmored": 2,
+            "advanced": 0,
+            "martial": 0,
+            "simple": 2,
+            "unarmed": 2,
+            "castingArcane": 0,
+            "castingDivine": 0,
+            "castingOccult": 0,
+            "castingPrimal": 0,
+            "acrobatics": 2,
+            "arcana": 0,
+            "athletics": 2,
+            "crafting": 2,
+            "deception": 2,
+            "diplomacy": 0,
+            "intimidation": 2,
+            "medicine": 2,
+            "nature": 0,
+            "occultism": 0,
+            "performance": 0,
+            "religion": 2,
+            "society": 2,
+            "stealth": 2,
+            "survival": 2,
+            "thievery": 2
+        },
+        "feats": [
+            [
+                "Terrain Stalker",
+                null
+            ],
+            [
+                "Half-Orc",
+                null,
+                "Heritage",
+                1
+            ],
+            [
+                "Orc Sight",
+                null,
+                "Ancestry Feat",
+                1
+            ],
+            [
+                "Nimble Dodge",
+                null,
+                "Class Feat",
+                1
+            ],
+            [
+                "Experienced Professional",
+                null,
+                "Skill Feat",
+                1
+            ]
+        ],
+        "specials": [
+            "Surprise Attack",
+            "Low-Light Vision",
+            "Darkvision",
+            "Thief Racket",
+            "Sneak Attack",
+            "Half-Orc"
+        ],
+        "lores": [
+            [
+                "Underworld",
+                2
+            ]
+        ],
+        "equipment": [
+            [
+                "Clothing (Explorer's)",
+                1
+            ],
+            [
+                "Clothing (Fine)",
+                1
+            ],
+            [
+                "Crowbar",
+                1
+            ],
+            [
+                "Tent (Pup)",
+                1
+            ],
+            [
+                "Bedroll",
+                1
+            ],
+            [
+                "Thieves' Tools",
+                1
+            ],
+            [
+                "Candle",
+                5
+            ],
+            [
+                "Backpack",
+                1
+            ],
+            [
+                "Compass",
+                1
+            ],
+            [
+                "Hammer",
+                1
+            ],
+            [
+                "Lantern (Hooded)",
+                1
+            ],
+            [
+                "Oil",
+                2
+            ],
+            [
+                "Piton",
+                10
+            ],
+            [
+                "Rations",
+                10
+            ],
+            [
+                "Rope",
+                1
+            ],
+            [
+                "Soap",
+                1
+            ],
+            [
+                "Traveler's Cloak",
+                1
+            ],
+            [
+                "Waterskin",
+                1
+            ],
+            [
+                "Truth Potion",
+                1
+            ]
+        ],
+        "specificProficiencies": {
+            "trained": [
+                "Shortsword"
+            ],
+            "expert": [],
+            "master": [],
+            "legendary": []
+        },
+        "weapons": [
+            {
+                "name": "Sword Cane",
+                "qty": 1,
+                "prof": "martial",
+                "die": "d6",
+                "pot": 0,
+                "str": "",
+                "mat": null,
+                "display": "Sword Cane",
+                "runes": []
+            },
+            {
+                "name": "Shortsword",
+                "qty": 1,
+                "prof": "martial",
+                "die": "d6",
+                "pot": 0,
+                "str": "",
+                "mat": null,
+                "display": "Shortsword",
+                "runes": []
+            },
+            {
+                "name": "Dagger",
+                "qty": 1,
+                "prof": "simple",
+                "die": "d4",
+                "pot": 0,
+                "str": "",
+                "mat": null,
+                "display": "Dagger",
+                "runes": []
+            },
+            {
+                "name": "Dagger",
+                "qty": 1,
+                "prof": "simple",
+                "die": "d4",
+                "pot": 0,
+                "str": "",
+                "mat": null,
+                "display": "Dagger",
+                "runes": []
+            }
+        ],
+        "money": {
+            "pp": 0,
+            "gp": 58,
+            "sp": 2,
+            "cp": 59
+        },
+        "armor": [
+            {
+                "name": "Leather Armor",
+                "qty": 1,
+                "prof": "light",
+                "pot": 0,
+                "res": "",
+                "mat": null,
+                "display": "Leather",
+                "worn": true,
+                "runes": []
+            }
+        ],
+        "spellCasters": [],
+        "formula": [],
+        "pets": [],
+        "acTotal": {
+            "acProfBonus": 3,
+            "acAbilityBonus": 4,
+            "acItemBonus": 1,
+            "acTotal": 18
+        }
+    }
+}
