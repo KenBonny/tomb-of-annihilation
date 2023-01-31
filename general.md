@@ -33,3 +33,20 @@ arena fight
 
 # Ytepka Society Iron Token
 When the society judges that someone has damaged the social fabric of Chult or is on the verge of committing a great wrong, it presents a warning by anonymously delivering an iron token bearing the likeness of a triceratops. It’s up to the marked individual to figure out the meaning of the token and take steps to correct the offending behavior or undo the damage. If the person ignores the warning and persists in offending the society, the Ytepkas secure permission from the merchant princes to mete out punishment as they see fit, up to and including a sanction
+
+# map locations
+17: dry dock
+
+12: big statue of a great king holding a shield and spear weapon
+
+14: lighthouse, different colours of light and smoke can signal to fort and mines nearby
+
+15: chain to prevent ships entering or leaving, more to stop thieves and smugglers
+
+20: arena
+
+19: fish market, easier and safer to hunt than dinos
+
+21: hall of gold, named after the golden roof, highest point in the city
+
+18: red bazaar where we can buy mostly anything
