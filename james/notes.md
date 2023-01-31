@@ -1,0 +1,2 @@
+- Learned a few holds and open palm strikes from the turtles at the turtle island
+- Lady Syndra Sylvane will use her influence and connections to the harpers to find more about the mysterious organisation
