@@ -18,12 +18,22 @@ Savras is a deity of wizards, fortune tellers, diviners, and those who unfailing
 
 # Merchant princes
 Ifan Talro'a: deals in beasts and beast training
-Kwayothé: deals in fruit, wine, ale, tej, oil, perfume, and insect repellent | lives in GoldenThrone
+-Kwayothé: deals in fruit, wine, ale, tej, oil, perfume, and insect repellent | lives in GoldenThrone
+sociopath
+liquifies people to make oils and perfumes
+maried to Jobal
+- Jobal: prince of sellswords and guides
+sociopath
+dangerous guy, do not cross
+-Waganda Otamu: big boss, helps the Harpers, harbors Lady Sylvane
+- Alistar Bol: is a big, sweaty guy with sweat stains
+he complains a lot and wants something exciting to happen
+hates his advice to be ignored
 
 Lord’s Alliance
 Zhentarim: Pock-Marked Po
-Emerald Enclave. Screaming Wind
-Order of the Gauntlet. Alastar Bol
+Emerald Enclave: Screaming Wind
+Order of the Gauntlet: Alastar Bol
 Harpers: Soggy Wren
 
 3 ways to win an audience with the merchant princes
@@ -50,3 +60,9 @@ When the society judges that someone has damaged the social fabric of Chult or i
 21: hall of gold, named after the golden roof, highest point in the city
 
 18: red bazaar where we can buy mostly anything
+
+# item guides
+[all potions](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=18)
+[healing potions](https://2e.aonprd.com/Equipment.aspx?ID=186)
+[insect repellant](https://tombofannihilation-28.obsidianportal.com/wikis/insect-repellent)
+[]
