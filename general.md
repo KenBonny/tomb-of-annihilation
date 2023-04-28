@@ -30,16 +30,17 @@ dangerous guy, do not cross
 he complains a lot and wants something exciting to happen
 hates his advice to be ignored
 
+# Beggar princes
+The Old City is run by “beggar princes” in a mocking parallel to the merchant princes of the city proper. They have no official authority, but each of them sits atop a web of debts, favors, incriminating information, and loyal muscle that allows them to get things done with an efficiency that the merchant princes sometimes envy. Unlike the merchant princes, whose positions are based on wealth that passes from generation to generation in the same family, the identities and even the number of the beggar princes changes continually.
+- Pockmarked Po
+- Alastar Bol
+
+# factions
 Lord’s Alliance
 Zhentarim: Pock-Marked Po
 Emerald Enclave: Screaming Wind
 Order of the Gauntlet: Alastar Bol
 Harpers: Soggy Wren
-
-3 ways to win an audience with the merchant princes
-quest for factions
-dino race
-arena fight
 
 # Ytepka Society Iron Token
 When the society judges that someone has damaged the social fabric of Chult or is on the verge of committing a great wrong, it presents a warning by anonymously delivering an iron token bearing the likeness of a triceratops. It’s up to the marked individual to figure out the meaning of the token and take steps to correct the offending behavior or undo the damage. If the person ignores the warning and persists in offending the society, the Ytepkas secure permission from the merchant princes to mete out punishment as they see fit, up to and including a sanction
@@ -60,6 +61,11 @@ When the society judges that someone has damaged the social fabric of Chult or i
 21: hall of gold, named after the golden roof, highest point in the city
 
 18: red bazaar where we can buy mostly anything
+
+# companions
+
+- a hadrosaurus pack animal named Timmy 
+- a lizard pack animal named Bob
 
 # item guides
 [all potions](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=18)
