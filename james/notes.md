@@ -1,2 +1,5 @@
 - Learned a few holds and open palm strikes from the turtles at the turtle island
 - Lady Syndra Sylvane will use her influence and connections to the harpers to find more about the mysterious organisation
+- can cook okay
+- learned a few moves in hand to hand combat from the turtles on turtle island
+- 
