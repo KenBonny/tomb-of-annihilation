@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb8d91580cad0c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general notes/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 08 02.md",
+                "file": "general notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 08 02.md",
+                "file": "general notes/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 08 02.md"
+                "file": "general notes/Notes.md"
               }
             }
           }
@@ -159,16 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "278676c81b445d1a",
+  "active": "cb8d91580cad0c71",
   "lastOpenFiles": [
-    "quests.md",
-    "Nerissa.md",
+    "general.md",
+    "general notes/Notes.md",
+    "general notes/Factions.md",
+    "general notes/merchant princes.md",
+    "general notes/beggar princes.md",
+    "2023 04 05.md",
+    "2023 03 17.md",
+    "general notes/districts of Port Nyanzaru.md",
+    "quests/find Cimber.md",
+    "quests/complete Volo's monster manual.md",
+    "quests/assassinate Shogo.md",
+    "general notes",
+    "Gold conversion.jpg",
     "Magic Cosmetics.pdf",
     "2023 08 02.md",
+    "quests.md",
+    "quests",
+    "Nerissa.md",
     "2022 11 14.md",
     "2022 10 24.md",
-    "general.md",
-    "Gold conversion.jpg",
     "2023 07 15.md",
     "().md",
     "2023 04 28.md",
