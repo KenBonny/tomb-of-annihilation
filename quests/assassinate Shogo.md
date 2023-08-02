@@ -1,18 +1,3 @@
-# Find Cimber
-Xandala asks to find her father Cimber
-can't be found by magic
-last seen with lizardfolk going into jungle
-Find Xandala in market ward
-
-
-# Volo's monsters manual
-Volotharm "volo" Geddarm has something useful to say
-He is working on a manuscript of some sorts
-Volo's hands are stained with ink spots
-Writing a book about monsters and creatures
-
-
-# Assassinate Shogo
 Omala recently bought some dancing monkey fruit on the black market and used them to make and sell dye.
 Shortly thereafter, he received an iron token from the Ytepka Society—a grim warning.
 He wishes to atone for his crime and seeks an audience with Kwayothé, the merchant prince who controls the legal sale of fruit.
