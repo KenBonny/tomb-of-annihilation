@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "2023 08 02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "2023 08 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "2023 08 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-23.md"
+                "file": "2023 08 02.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "6b0308a7dcb851dc",
   "lastOpenFiles": [
+    "2023-08-23.md",
+    "2023 08 02.md",
     "quests/find Cimber.md",
     "quests/complete Volo's monster manual.md",
     "quests/assassinate Shogo.md",
@@ -157,8 +159,6 @@
     "general notes/Factions.md",
     "general notes/districts of Port Nyanzaru.md",
     "general notes/beggar princes.md",
-    "general notes",
-    "2023 08 02.md",
-    "2023-08-23.md"
+    "general notes"
   ]
 }
