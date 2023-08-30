@@ -10,6 +10,7 @@ member:
 - Screaming Wind
 
 ## Order of the Gauntlet
+Favour points: 1
 let by Alastar Bol
 
 ## Harpers
