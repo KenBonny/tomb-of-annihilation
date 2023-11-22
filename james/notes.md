@@ -2,4 +2,4 @@
 - Lady Syndra Sylvane will use her influence and connections to the harpers to find more about the mysterious organisation
 - can cook okay
 - learned a few moves in hand to hand combat from the turtles on turtle island
-- 
+- big secret: James likes being free from his adopted rogue family and he feels he is betraying his family by feeling this

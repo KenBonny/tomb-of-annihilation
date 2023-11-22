@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1407131ff8618544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zitem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-01.md",
+                "file": "2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-01.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-01.md"
+                "file": "2023-11-22.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b0308a7dcb851dc",
+  "active": "1407131ff8618544",
   "lastOpenFiles": [
-    "quests/Thay in the Basin.md",
+    "james/notes.md",
+    "james/background.md",
+    "james/James.png",
+    "2023-11-22.md",
     "2023-11-01.md",
+    "quests/Thay in the Basin.md",
     "2022 11 14.md",
     "quests/Azaka's mask.md",
     "general notes/beggar princes.md",
