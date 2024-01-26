@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91979319a74cceb6",
+            "id": "1407131ff8618544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed0096ebca9116ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general notes/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a13ce0914254bfe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "johan/notes.md",
+                "file": "2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-17.md"
+                "file": "2023-11-22.md"
               }
             }
           }
@@ -170,20 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91979319a74cceb6",
+  "active": "1407131ff8618544",
   "lastOpenFiles": [
     "quests/rescue Gales friend.md",
     "2024-01-17.md",
-    "johan/notes.md",
-    "general notes/Notes.md",
     "james/notes.md",
-    "general notes/Factions.md",
-    "general notes/districts of Port Nyanzaru.md",
-    "2023 06 02.md",
-    "2023 02 22.md",
-    "2023-11-22.md",
     "james/background.md",
     "james/James.png",
+    "2023-11-22.md",
     "2023-11-01.md",
     "quests/Thay in the Basin.md",
     "2022 11 14.md",
@@ -199,7 +169,11 @@
     "2023-08-23.md",
     "2023 08 02.md",
     "quests/find Cimber.md",
+    "quests/complete Volo's monster manual.md",
     "quests",
+    "general notes/Notes.md",
+    "general notes/Factions.md",
+    "general notes/districts of Port Nyanzaru.md",
     "general notes"
   ]
 }
